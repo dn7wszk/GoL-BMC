@@ -16,15 +16,15 @@ gdzie daniel3.in jest plikiem wejsciowym. Inne pliki wejsciowe rowniez posiadaja
 
 Dla poszukiwania cyklu nalezy dodac flage '-c True'
 
-'''
+~~~
 python3 gol-encoding.py -i galaxy8.in -c True
-'''
+~~~
 
 ### Brak SAT-solvera
 
 Wyswietlanie wyniku:
 
-'''
+~~~
 python3 gol.py -i daniel3.out -s 28 -t 2
-'''
+~~~
 gdzie 's' wielkosc planszy, 't' liczba ruchow.
