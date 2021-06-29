@@ -4,9 +4,9 @@ Conway's Game of Life and Bounded Model Checking heavily inspired by Donald E. K
 Skrypt wymaga SAT-solvera domylscie jest to 'kissat' natomiast z flaga '-s' mozna podac sciezke do wlasnego SAT-solvera.
 Usage :
 
-'''
+~~~
 python3 gol-encoding.py -i daniel3.in
-'''
+~~~
 gdzie daniel3.in jest plikiem wejsciowym. Inne pliki wejsciowe rowniez posiadaja format .in i sa to miedzy innymi:
 - cycl1.in - punkt staly
 - daniel4.in - napis DANIEL w 4 ruchach czesciowo ustalona plansza
