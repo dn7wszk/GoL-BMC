@@ -26,4 +26,4 @@ Wyświetlanie wyniku:
 ~~~
 python3 gol.py -i daniel3.out -s 28 -t 2
 ~~~
-gdzie 's' wielkość planszy, 't' liczba ruchów.
+gdzie `s` wielkość planszy, `t` liczba ruchów.
